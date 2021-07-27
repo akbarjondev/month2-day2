@@ -9,7 +9,7 @@ body {
 .box {
   width: 200px;
   height: 200px;
-  border: 2px solid red;
+  border: 2px solid green;
   background-color: #d1c9c9;
 }
 
